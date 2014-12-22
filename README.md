@@ -1,4 +1,4 @@
-countUp.js (fork)
+countUp.js (fork with only npm support)
 ==========
 
 countUp.js is a dependency-free, lightweight JavaScript "class" that can be used to quickly create animations that display numerical data in a more interesting way.
@@ -23,6 +23,7 @@ Params:
 Decimals, duration, and options can be left out to use the default values.
 
 ```js
+var countUp = require('countup.js');
 var numAnim = new countUp("SomeElementYouWantToAnimate", 24.02, 99.99);
 numAnim.start();
 ```
