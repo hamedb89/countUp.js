@@ -1,0 +1,13 @@
+{
+  "author": "Hamed Bahrami",
+  "name": "countup.js",
+  "description": "",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/hamedb89/countUp.js"
+  },
+  "main": "./countUp",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
