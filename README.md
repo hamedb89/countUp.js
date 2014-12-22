@@ -10,6 +10,12 @@ countUp.js supports all browsers.
 
 ##[Try the demo](http://inorganik.github.io/countUp.js)
 
+### Install:
+
+```
+npm i -D countup.js
+```
+
 ### Usage:
 
 Params:
